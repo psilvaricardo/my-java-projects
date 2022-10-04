@@ -5,9 +5,26 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ce81bdab-16a3-4a3d-9a39-20500e337264" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/prep/interviews/random/LilysHomework.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/prep/interviews/random/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/prep/interviews/random/hackerrank/challenges/LongestSubStrWithoutRepeatingCharacters.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/prep/java8/lambdas/BasicAddLambda.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/prep/java8/lambdas/BasicLambda.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/prep/java8/lambdas/FunctionalInterfaceExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/prep/java8/lambdas/GreeterV1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/prep/java8/lambdas/GreeterV2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/prep/java8/lambdas/GreeterV3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/prep/java8/lambdas/GreetingV1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/prep/java8/lambdas/HelloLambdasGreetingV1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/prep/java8/lambdas/RunnableExampleUsingLambda.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/prep/java8/lambdas/TypeInferenceExampleV1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/prep/java8/lambdas/exercise/Condition.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/prep/java8/lambdas/exercise/Exercise1Java7.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/prep/java8/lambdas/exercise/Exercise1Java8.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/prep/java8/lambdas/exercise/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/prep/java8/lambdas/usingfuncinterfaces/Exercise1Java8.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/prep/java8/lambdas/usingfuncinterfaces/Exercise1Java8v2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/prep/interviews/random/Test.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -17,6 +34,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -28,13 +46,16 @@
     <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2Drsc7xR7nKfjIzirJaL67B7xcu" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">{
   &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
@@ -42,13 +63,70 @@
     &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;
   }
 }</component>
-  <component name="RunManager">
-    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.prep.interviews.random.Test" />
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.prep.java8.lambdas.usingfuncinterfaces" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Exercise1Java8v2">
+    <configuration name="Exercise1Java7" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.prep.java8.lambdas.exercise.Exercise1Java7" />
       <module name="DataStructuresAlgorithms" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.prep.interviews.random.hackerrank.challenges.*" />
+          <option name="PATTERN" value="com.prep.java8.lambdas.exercise.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Exercise1Java8" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.prep.java8.lambdas.exercise.Exercise1Java8" />
+      <module name="DataStructuresAlgorithms" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.prep.java8.lambdas.exercise.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Exercise1Java8v2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.prep.java8.lambdas.usingfuncinterfaces.Exercise1Java8v2" />
+      <module name="DataStructuresAlgorithms" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.prep.java8.lambdas.usingfuncinterfaces.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RunnableExampleUsingLambda" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.prep.java8.lambdas.RunnableExampleUsingLambda" />
+      <module name="DataStructuresAlgorithms" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.prep.java8.lambdas.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="com.prep.java8.lambdas.usingfuncinterfaces.Exercise1Java8" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.prep.java8.lambdas.usingfuncinterfaces.Exercise1Java8" />
+      <module name="DataStructuresAlgorithms" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.prep.java8.lambdas.usingfuncinterfaces.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -58,7 +136,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.com.prep.interviews.random.Test" />
+        <item itemvalue="Application.Exercise1Java8v2" />
+        <item itemvalue="Application.com.prep.java8.lambdas.usingfuncinterfaces.Exercise1Java8" />
+        <item itemvalue="Application.Exercise1Java8" />
+        <item itemvalue="Application.Exercise1Java7" />
+        <item itemvalue="Application.RunnableExampleUsingLambda" />
       </list>
     </recent_temporary>
   </component>
@@ -78,10 +160,19 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="CUSTOM_BOOLEAN_PROPERTIES">
+                <map>
+                  <entry key="Show.Git.Branches" value="false" />
+                </map>
+              </option>
+            </State>
           </value>
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
 </project>
