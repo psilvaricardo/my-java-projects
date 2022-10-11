@@ -5,26 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ce81bdab-16a3-4a3d-9a39-20500e337264" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/prep/interviews/random/hackerrank/challenges/LongestSubStrWithoutRepeatingCharacters.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/prep/java8/lambdas/BasicAddLambda.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/prep/java8/lambdas/BasicLambda.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/prep/java8/lambdas/FunctionalInterfaceExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/prep/java8/lambdas/GreeterV1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/prep/java8/lambdas/GreeterV2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/prep/java8/lambdas/GreeterV3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/prep/java8/lambdas/GreetingV1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/prep/java8/lambdas/HelloLambdasGreetingV1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/prep/java8/lambdas/RunnableExampleUsingLambda.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/prep/java8/lambdas/TypeInferenceExampleV1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/prep/java8/lambdas/exercise/Condition.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/prep/java8/lambdas/exercise/Exercise1Java7.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/prep/java8/lambdas/exercise/Exercise1Java8.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/prep/java8/lambdas/exercise/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/prep/java8/lambdas/usingfuncinterfaces/Exercise1Java8.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/prep/java8/lambdas/usingfuncinterfaces/Exercise1Java8v2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/prep/java8/lambdas/closures/ClosuresExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/prep/java8/lambdas/closures/Process.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/prep/java8/lambdas/exceptions/ExceptionHandlingExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/prep/java8/lambdas/thisref/ThisReferenceExample.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/prep/interviews/random/Test.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -68,13 +53,13 @@
       <recent name="com.prep.java8.lambdas.usingfuncinterfaces" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Exercise1Java8v2">
-    <configuration name="Exercise1Java7" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.prep.java8.lambdas.exercise.Exercise1Java7" />
+  <component name="RunManager" selected="Application.ThisReferenceExample">
+    <configuration name="ClosuresExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.prep.java8.lambdas.closures.ClosuresExample" />
       <module name="DataStructuresAlgorithms" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.prep.java8.lambdas.exercise.*" />
+          <option name="PATTERN" value="com.prep.java8.lambdas.closures.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -82,12 +67,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Exercise1Java8" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.prep.java8.lambdas.exercise.Exercise1Java8" />
+    <configuration name="ExceptionHandlingExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.prep.java8.lambdas.exceptions.ExceptionHandlingExample" />
       <module name="DataStructuresAlgorithms" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.prep.java8.lambdas.exercise.*" />
+          <option name="PATTERN" value="com.prep.java8.lambdas.exceptions.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -108,12 +93,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RunnableExampleUsingLambda" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.prep.java8.lambdas.RunnableExampleUsingLambda" />
+    <configuration name="ThisReferenceExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.prep.java8.lambdas.thisref.ThisReferenceExample" />
       <module name="DataStructuresAlgorithms" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.prep.java8.lambdas.*" />
+          <option name="PATTERN" value="com.prep.java8.lambdas.thisref.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -136,11 +121,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ThisReferenceExample" />
+        <item itemvalue="Application.ClosuresExample" />
+        <item itemvalue="Application.ExceptionHandlingExample" />
         <item itemvalue="Application.Exercise1Java8v2" />
         <item itemvalue="Application.com.prep.java8.lambdas.usingfuncinterfaces.Exercise1Java8" />
-        <item itemvalue="Application.Exercise1Java8" />
-        <item itemvalue="Application.Exercise1Java7" />
-        <item itemvalue="Application.RunnableExampleUsingLambda" />
       </list>
     </recent_temporary>
   </component>
