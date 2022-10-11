@@ -1,5 +1,5 @@
-# Created by https://www.toptal.com/developers/gitignore/api/osx,eclipse,intellij+all,gradle,git,helm
-# Edit at https://www.toptal.com/developers/gitignore?templates=osx,eclipse,intellij+all,gradle,git,helm
+# Created by https://www.toptal.com/developers/gitignore/api/osx,windows,eclipse,intellij+all,gradle,git,helm
+# Edit at https://www.toptal.com/developers/gitignore?templates=osx,windows,eclipse,intellij+all,gradle,git,helm
 
 ### Eclipse ###
 .metadata
@@ -203,6 +203,32 @@ Network Trash Folder
 Temporary Items
 .apdisk
 
+### Windows ###
+# Windows thumbnail cache files
+Thumbs.db
+Thumbs.db:encryptable
+ehthumbs.db
+ehthumbs_vista.db
+
+# Dump file
+*.stackdump
+
+# Folder config file
+[Dd]esktop.ini
+
+# Recycle Bin used on file shares
+$RECYCLE.BIN/
+
+# Windows Installer files
+*.cab
+*.msi
+*.msix
+*.msm
+*.msp
+
+# Windows shortcuts
+*.lnk
+
 ### Gradle ###
 .gradle
 **/build/
@@ -230,4 +256,8 @@ gradle-app.setting
 # Java heap dump
 *.hprof
 
-# End of https://www.toptal.com/developers/gitignore/api/osx,eclipse,intellij+all,gradle,git,helm
+# Default ignored files
+/shelf/
+/workspace.xml
+
+# End of https://www.toptal.com/developers/gitignore/api/osx,windows,eclipse,intellij+all,gradle,git,helm
