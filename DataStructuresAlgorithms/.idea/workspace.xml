@@ -5,8 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ce81bdab-16a3-4a3d-9a39-20500e337264" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/prep/java8/streams/StreamsExample1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/prep/java8/streams/StreamsExample2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/prep/java8/streams/bands.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/prep/java8/streams/data.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/prep/java8/streams/StreamsExample1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/prep/java8/streams/StreamsExample1.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,7 +53,7 @@
       <recent name="com.prep.java8.lambdas.usingfuncinterfaces" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.StreamsExample1">
+  <component name="RunManager" selected="Application.StreamsExample2">
     <configuration name="CollectionIterationExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.prep.java8.lambdas.collections.CollectionIterationExample" />
       <module name="DataStructuresAlgorithms" />
@@ -103,12 +106,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ThisReferenceExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.prep.java8.lambdas.thisref.ThisReferenceExample" />
+    <configuration name="StreamsExample2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.prep.java8.streams.StreamsExample2" />
       <module name="DataStructuresAlgorithms" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.prep.java8.lambdas.thisref.*" />
+          <option name="PATTERN" value="com.prep.java8.streams.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -118,11 +121,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.StreamsExample2" />
         <item itemvalue="Application.StreamsExample1" />
         <item itemvalue="Application.CollectionIterationExample" />
         <item itemvalue="Application.MethodReferenceExampleV2" />
         <item itemvalue="Application.MethodReferenceExample" />
-        <item itemvalue="Application.ThisReferenceExample" />
       </list>
     </recent_temporary>
   </component>
