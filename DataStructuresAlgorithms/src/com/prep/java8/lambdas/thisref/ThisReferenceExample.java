@@ -61,7 +61,7 @@ public class ThisReferenceExample {
 
         doProcess(30, i -> {
             System.out.println( "Value of i is " + i );
-            System.out.println( this ); // this will not work
+            System.out.println( this );
         } );
     }
 
