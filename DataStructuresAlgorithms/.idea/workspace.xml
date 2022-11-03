@@ -4,7 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ce81bdab-16a3-4a3d-9a39-20500e337264" name="Changes" comment="" />
+    <list default="true" id="ce81bdab-16a3-4a3d-9a39-20500e337264" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/com/prep/kforce/CodingQuestion1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -47,13 +51,13 @@
       <recent name="com.prep.java8.lambdas.usingfuncinterfaces" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.ThisReferenceExample">
-    <configuration name="ClosuresExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.prep.java8.lambdas.closures.ClosuresExample" />
+  <component name="RunManager" selected="Application.CodingQuestion1">
+    <configuration name="CodingQuestion1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.prep.kforce.CodingQuestion1" />
       <module name="DataStructuresAlgorithms" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.prep.java8.lambdas.closures.*" />
+          <option name="PATTERN" value="com.prep.kforce.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -61,12 +65,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ExceptionHandlingExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.prep.java8.lambdas.exceptions.ExceptionHandlingExample" />
+    <configuration name="CollectionIterationExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.prep.java8.lambdas.collections.CollectionIterationExample" />
       <module name="DataStructuresAlgorithms" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.prep.java8.lambdas.exceptions.*" />
+          <option name="PATTERN" value="com.prep.java8.lambdas.collections.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -74,12 +78,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Exercise1Java8v2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.prep.java8.lambdas.usingfuncinterfaces.Exercise1Java8v2" />
+    <configuration name="SoftWareEng" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.prep.interviews.random.hackerrank.challenges.hackajob.SoftWareEng" />
       <module name="DataStructuresAlgorithms" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.prep.java8.lambdas.usingfuncinterfaces.*" />
+          <option name="PATTERN" value="com.prep.interviews.random.hackerrank.challenges.hackajob.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -87,12 +91,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ThisReferenceExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.prep.java8.lambdas.thisref.ThisReferenceExample" />
+    <configuration name="StreamsExample1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.prep.java8.streams.StreamsExample1" />
       <module name="DataStructuresAlgorithms" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.prep.java8.lambdas.thisref.*" />
+          <option name="PATTERN" value="com.prep.java8.streams.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -100,12 +104,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="com.prep.java8.lambdas.usingfuncinterfaces.Exercise1Java8" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.prep.java8.lambdas.usingfuncinterfaces.Exercise1Java8" />
+    <configuration name="StreamsExample2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.prep.java8.streams.StreamsExample2" />
       <module name="DataStructuresAlgorithms" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.prep.java8.lambdas.usingfuncinterfaces.*" />
+          <option name="PATTERN" value="com.prep.java8.streams.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -115,11 +119,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.ThisReferenceExample" />
-        <item itemvalue="Application.ClosuresExample" />
-        <item itemvalue="Application.ExceptionHandlingExample" />
-        <item itemvalue="Application.Exercise1Java8v2" />
-        <item itemvalue="Application.com.prep.java8.lambdas.usingfuncinterfaces.Exercise1Java8" />
+        <item itemvalue="Application.CodingQuestion1" />
+        <item itemvalue="Application.SoftWareEng" />
+        <item itemvalue="Application.StreamsExample2" />
+        <item itemvalue="Application.StreamsExample1" />
+        <item itemvalue="Application.CollectionIterationExample" />
       </list>
     </recent_temporary>
   </component>
