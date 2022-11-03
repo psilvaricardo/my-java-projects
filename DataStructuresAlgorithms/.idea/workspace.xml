@@ -5,9 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ce81bdab-16a3-4a3d-9a39-20500e337264" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/prep/kforce/CodingQuestion1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/prep/kforce/CodingQuestion2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/prep/kforce/PracticeQuestion1.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/prep/kforce/CodingQuestion1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/prep/kforce/CodingQuestion1.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,7 +52,7 @@
       <recent name="com.prep.java8.lambdas.usingfuncinterfaces" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.CodingQuestion1">
+  <component name="RunManager" selected="Application.CodingQuestion2">
     <configuration name="CodingQuestion1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.prep.kforce.CodingQuestion1" />
       <module name="DataStructuresAlgorithms" />
@@ -65,12 +66,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CollectionIterationExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.prep.java8.lambdas.collections.CollectionIterationExample" />
+    <configuration name="CodingQuestion2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.prep.kforce.CodingQuestion2" />
       <module name="DataStructuresAlgorithms" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.prep.java8.lambdas.collections.*" />
+          <option name="PATTERN" value="com.prep.kforce.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PracticeQuestion1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.prep.kforce.PracticeQuestion1" />
+      <module name="DataStructuresAlgorithms" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.prep.kforce.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -84,19 +98,6 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.prep.interviews.random.hackerrank.challenges.hackajob.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="StreamsExample1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.prep.java8.streams.StreamsExample1" />
-      <module name="DataStructuresAlgorithms" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.prep.java8.streams.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -119,11 +120,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.CodingQuestion2" />
         <item itemvalue="Application.CodingQuestion1" />
+        <item itemvalue="Application.PracticeQuestion1" />
         <item itemvalue="Application.SoftWareEng" />
         <item itemvalue="Application.StreamsExample2" />
-        <item itemvalue="Application.StreamsExample1" />
-        <item itemvalue="Application.CollectionIterationExample" />
       </list>
     </recent_temporary>
   </component>
