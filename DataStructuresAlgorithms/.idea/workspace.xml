@@ -5,6 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ce81bdab-16a3-4a3d-9a39-20500e337264" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/com/prep/kforce/CodingQuestion1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -49,7 +51,20 @@
       <recent name="com.prep.java8.lambdas.usingfuncinterfaces" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.StreamsExample2">
+  <component name="RunManager" selected="Application.CodingQuestion1">
+    <configuration name="CodingQuestion1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.prep.kforce.CodingQuestion1" />
+      <module name="DataStructuresAlgorithms" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.prep.kforce.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="CollectionIterationExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.prep.java8.lambdas.collections.CollectionIterationExample" />
       <module name="DataStructuresAlgorithms" />
@@ -63,25 +78,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MethodReferenceExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.prep.java8.lambdas.methodref.MethodReferenceExample" />
+    <configuration name="SoftWareEng" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.prep.interviews.random.hackerrank.challenges.hackajob.SoftWareEng" />
       <module name="DataStructuresAlgorithms" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.prep.java8.lambdas.methodref.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="MethodReferenceExampleV2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.prep.java8.lambdas.methodref.MethodReferenceExampleV2" />
-      <module name="DataStructuresAlgorithms" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.prep.java8.lambdas.methodref.*" />
+          <option name="PATTERN" value="com.prep.interviews.random.hackerrank.challenges.hackajob.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -117,11 +119,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.CodingQuestion1" />
+        <item itemvalue="Application.SoftWareEng" />
         <item itemvalue="Application.StreamsExample2" />
         <item itemvalue="Application.StreamsExample1" />
         <item itemvalue="Application.CollectionIterationExample" />
-        <item itemvalue="Application.MethodReferenceExampleV2" />
-        <item itemvalue="Application.MethodReferenceExample" />
       </list>
     </recent_temporary>
   </component>
