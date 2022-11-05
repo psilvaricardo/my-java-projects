@@ -20,7 +20,7 @@ import java.util.HashMap;
  *
  * For inputString = "bbc", the output should be solution(inputString) = false.
  * Although there are more bs than cs, this string is not beautiful because there are no as,
- * so therefore there are more bs than as.
+ * therefore there are more bs than as.
  * */
 
 public class CodingQuestion2 {
